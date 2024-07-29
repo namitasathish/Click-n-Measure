@@ -12,5 +12,6 @@ This uses OpenCV to measure the dimensions of objects in an image, detecting and
 - The measured dimensions are then annotated on the original image, displayed to the user
 
   ## Project Working
-  ![](images/original_image.png)
+  ![](working2.png
+)
 
