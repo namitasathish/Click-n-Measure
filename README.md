@@ -11,3 +11,6 @@ This uses OpenCV to measure the dimensions of objects in an image, detecting and
 - Using these contours, the script calculates the dimensions of the bounding box around each detected object
 - The measured dimensions are then annotated on the original image, displayed to the user
 
+  ## Project Working
+  ![](images/original_image.png)
+
